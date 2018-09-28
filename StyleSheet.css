@@ -1,0 +1,9 @@
+﻿.Element
+{
+    border:2px solid darkviolet;
+    border-radius:10px;
+    background-color:deepskyblue;
+    padding:5px;
+    font-family:Arial;
+    display:inline-block;
+}
